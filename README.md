@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there! 👋
+I'm Djeneba, a full-stack web development student at AdaTechSchool Paris. I am currently looking for an apprenticeship starting in October 2023, for a duration of 12 months. You can find some of my personal and team projects on my GitHub profile.
+
 
 <!--
 **djenebaa/djenebaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
