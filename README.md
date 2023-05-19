@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-  <h1>Djeneba - Full-Stack Web Developer</h1>
+  <h1 align ="center">Djeneba - Full-Stack Web Developer</h1>
   
   <p>Hi there! 👋 I'm Djeneba, a passionate and dedicated full-stack web development student at AdaTechSchool Paris. I am actively seeking an apprenticeship opportunity starting in October 2023, for a duration of 12 months.</p>
   
