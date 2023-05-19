@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+
   <h1>Djeneba - Full-Stack Web Developer</h1>
   
   <p>Hi there! 👋 I'm Djeneba, a passionate and dedicated full-stack web development student at AdaTechSchool Paris. I am actively seeking an apprenticeship opportunity starting in October 2023, for a duration of 12 months.</p>
@@ -60,6 +54,5 @@ Here are some ideas to get you started:
   <p>If you have any apprenticeship opportunities or would like to collaborate on a project, feel free to reach out to me. You can contact me via email at <a href="mailto:djenebasoum98@icloud.com">djenebasoum98@icloud.com</a> or connect with me on <a href="https://www.linkedin.com/in/djeneba-soumare/">LinkedIn</a>.</p>
   
   <p>Thank you for visiting my GitHub profile! I look forward to connecting with you.</p>
-</body>
-</html>
+
 
