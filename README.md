@@ -55,5 +55,6 @@ Here are some ideas to get you started:
   <p>If you have any apprenticeship opportunities or would like to collaborate on a project, feel free to reach out to me. You can contact me via email at <a href="mailto:djenebasoum98@icloud.com">djenebasoum98@icloud.com</a> or connect with me on <a href="https://www.linkedin.com/in/djeneba-soumare/">LinkedIn</a>.</p>
   
   <p>Thank you for visiting my GitHub profile! I look forward to connecting with you.</p>
-
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djenebaa&label=Profile%20views&color=0e75b6&style=flat" alt="farah-9" /> </p>
 
