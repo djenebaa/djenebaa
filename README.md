@@ -1,5 +1,5 @@
 <!-- Hi there! 👋
-I'm Djeneba, a Software Engineer student at AdaTechSchool Paris. I am currently looking for an apprenticeship starting in October 2023, for a duration of 12 months. You can find some of my personal and team projects on my GitHub profile. -->
+I'm Djeneba, a Software Engineer student at AdaTechSchool Paris. -->
 
 
 <!--
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 
-  <h1 align ="center">Djeneba - Software Engineer </h1>
+  <h1 align ="center">Djeneba - Software Engineer</h1>
   
-  <p>Hi there! 👋 I'm Djeneba, a passionate and dedicated Software Engineer student at AdaTechSchool Paris. I am actively seeking an apprenticeship opportunity starting in October 2023, for a duration of 12 months.</p>
+  <p>Hi there! 👋 I'm Djeneba, a passionate and dedicated Software Engineer student at AdaTechSchool Paris.</p>
   
   <h2>About Me</h2>
   
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   
   <h2>Contact Me</h2>
   
-  <p>If you have any apprenticeship opportunities or would like to collaborate on a project, feel free to reach out to me. You can contact me via email at <a href="mailto:djenebasoum98@icloud.com">djenebasoum98@icloud.com</a> or connect with me on <a href="https://www.linkedin.com/in/djeneba-soumare/">LinkedIn</a>.</p>
+  <p>Feel free to reach out to me. You can contact me via email at <a href="mailto:djenebasoum98@icloud.com">djenebasoum98@icloud.com</a> or connect with me on <a href="https://www.linkedin.com/in/djeneba-soumare/">LinkedIn</a>.</p>
   
   <p>Thank you for visiting my GitHub profile! I look forward to connecting with you.</p>
 
